@@ -1,3 +1,11 @@
+team name: Trello Group_C
+Data set link: https://github.com/chandrahas-reddy/spooky-author-kaggle/tree/chandrahas
+remarks: Regarding the execution result, after installing Rstudio and running Spookey.R, multiple files were generated.
+However,
+1. which one is the result of the execution?
+2. in what format are the results output (txt? Graph?)?
+Since I don't know these two things, I couldn't submit the report.
+
 # Spooky Author Identification - Kaggle
 
 Kaggle Competition link: https://www.kaggle.com/c/spooky-author-identification
