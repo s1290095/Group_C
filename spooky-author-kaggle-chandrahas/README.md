@@ -1,5 +1,7 @@
 team name: Trello Group_C　
+
 Data set link: https://github.com/chandrahas-reddy/spooky-author-kaggle/tree/chandrahas
+
 remarks: Regarding the execution result, after installing Rstudio and running Spookey.R, multiple files were generated.
 However,
 1. which one is the result of the execution?
